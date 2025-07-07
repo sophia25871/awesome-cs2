@@ -1,0 +1,5 @@
+[project]
+name = "awesome-cs2"
+version = "0.1.0"
+description = "An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc."
+requires-python = ">=3.10"
